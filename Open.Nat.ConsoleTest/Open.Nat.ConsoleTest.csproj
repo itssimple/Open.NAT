@@ -68,7 +68,7 @@
 		 Condition="'$(Configuration)|$(Platform)' == 'Release 3.5|AnyCPU' OR '$(Configuration)|$(Platform)' == 'Debug 3.5|AnyCPU'">
       <HintPath>..\packages\TaskParallelLibrary.1.0.2856.0\lib\Net35\System.Threading.dll</HintPath>
       <Private>True</Private>
-    </Reference>	 
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AssemblyInfo.cs" />
